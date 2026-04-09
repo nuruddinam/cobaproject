@@ -25,3 +25,5 @@ WebUI.verifyMatch(objectRepo, 'Belajar katalon', true)
 
 WebUI.openBrowser('')
 
+WebUI.acceptAlert()
+
